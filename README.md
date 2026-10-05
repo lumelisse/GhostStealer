@@ -52,3 +52,6 @@ flowchart LR
     F --> G[Payload.exe]
     G --> H[Authorized Target]
     H --> I[Discord Webhook]
+## 📞 Contact For Buy It
+- Discord: [@Server](https://discord.gg/5-6)
+- Discord: [@lumelisse](https://discordapp.com/users/970282290905231390)
