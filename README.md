@@ -1,4 +1,4 @@
-# GhostStealer
+# GhostStealer ( You can purchase the tool through our Discord server )
 
 <p align="center">
   <strong>GhostStealer</strong> is an advanced security research tool for testing local data storage vulnerabilities in web browsers and Discord applications on Windows systems.
