@@ -40,7 +40,7 @@
 
 ---
 ## 💰 Contact For Buy It
-- Discord: [@Server](https://discord.gg/5-6)
+- Discord: [@Server](https://discord.gg/TNyqkT8Xfn)
 - Discord: [@lumelisse](https://discordapp.com/users/970282290905231390)
 ## ⚙️ Build Pipeline
 
